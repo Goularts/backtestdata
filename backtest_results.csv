@@ -1,0 +1,6 @@
+Description,backtest Value
+Average slippage on real operation - buy,-7.921875
+Average slippage on real operation - sell,3.578125
+Average slippage on real operation - total,-4.34375
+Backtest financial total,605.0
+Backtest financial total with average slippage,237.52

@@ -1,0 +1,6 @@
+Description,Latency Value
+Average latency between real time price and first received to algo analysis,0 days 00:00:00.503672180
+Average latency between real time price and full algo processing,0 days 00:00:00.508750485
+Average latency between real time price and full algo processing (only with order),0 days 00:00:00.836578469
+Average latency full algo processing,0 days 00:00:00.004827093
+Average latency full algo processing (only with order),0 days 00:00:00.006774530

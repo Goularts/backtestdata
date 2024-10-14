@@ -23,13 +23,7 @@ This project includes multiple scripts and datasets used to analyze trading late
 
 ### Installation
 
-1. **Clone the repository**:
-   ```sh
-   git clone <URL_OF_REPOSITORY>
-   cd BacktestData
-   ```
-
-2. **Install dependencies**:
+1. **Install dependencies**:
    ```sh
    pip install -r requirements.txt
    ```

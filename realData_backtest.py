@@ -22,7 +22,7 @@ backtest_results = {
         'Average slippage on real operation - sell',
         'Average slippage on real operation - total',
         'Backtest financial total', 
-        'Backtest financial total with average slippage', 
+        'Backtest financial total with average slippage',
     ],
     'backtest Value': [
         df['Buy_slippage'].mean(),

@@ -46,14 +46,16 @@ latency_results = {
         'Average latency between real time price and full algo processing', 
         'Average latency between real time price and full algo processing (with order only)', 
         'Average latency full algo processing',        
-        'Average latency full algo processing (with order only)'
+        'Average latency full algo processing (with order only)',
+        'There is no latency between sending the order fullfilling it',
     ],
     'Latency Value': [
         tradeTime_ReceivedAlgo,
         tradeTime_FullProcess,
         tradeTime_FullProcessOrderDone,
         algoProcessing,
-        algoProcessingOrderDone
+        algoProcessingOrderDone,
+        0.0,
     ]
 }
 
